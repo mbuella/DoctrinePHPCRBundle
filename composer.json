@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/phpcr-bundle",
+    "name": "mbuella/doctrine-phpcr-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DoctrinePHPCRBundle",
     "keywords": ["PHPCR", "ODM", "Database", "Persistence"],
